@@ -9,6 +9,7 @@ Resources for keeping with developments in Front End:
 * [Front End Focus](http://frontendfocus.co/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Web Development Reading List](https://wdrl.info/)
+* [WebDev Subreddit](https://reddit.com/r/webdev)
 
 ### Twitter Accounts
 * [Dan Abramov](https://twitter.com/dan_abramov)
